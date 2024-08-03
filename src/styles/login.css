@@ -1,0 +1,14 @@
+.gradient-custom-2 {
+    /* fallback for old browsers */
+    background: #fccb90;
+
+    background: -webkit-linear-gradient(to right, #1d5fe4, #368fd8, #457af7, #6069e7);
+
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to right, #2467ee, #368fd8, #3668dd, #343ecb);
+}
+
+.text-center img {
+    width: 160px;
+    margin: 50px;
+}
